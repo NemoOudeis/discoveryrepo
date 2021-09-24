@@ -7,7 +7,7 @@ pluginManagement {
     }
     
 }
-rootProject.name = "discoveryrepo"
+rootProject.name = "kotlin-mp-poc"
 
 
 include(":browser")
